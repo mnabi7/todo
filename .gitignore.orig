@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+/node_modules
+=======
+>>>>>>> 059077b3183a5057804df9163e8ca1acb6a33116
 # Logs
 logs
 *.log
@@ -20,7 +24,11 @@ coverage
 # nyc test coverage
 .nyc_output
 
+<<<<<<< HEAD
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+=======
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+>>>>>>> 059077b3183a5057804df9163e8ca1acb6a33116
 .grunt
 
 # Bower dependency directory (https://bower.io/)
@@ -36,7 +44,11 @@ build/Release
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
+# TypeScript v1 declaration files
+=======
 # Typescript v1 declaration files
+>>>>>>> 059077b3183a5057804df9163e8ca1acb6a33116
 typings/
 
 # Optional npm cache directory
@@ -57,6 +69,10 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
 # next.js build output
 .next
 
@@ -68,3 +84,7 @@ typings/
 
 # Serverless directories
 .serverless
+=======
+# next.js build output
+.next
+>>>>>>> 059077b3183a5057804df9163e8ca1acb6a33116
